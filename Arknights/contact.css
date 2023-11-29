@@ -1,0 +1,10 @@
+@charset "utf-8";
+/* CSS Document */
+
+form {
+    background-color: gray;
+    color: white;
+    border-style: solid;
+    position: auto;
+
+}

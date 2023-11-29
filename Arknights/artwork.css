@@ -1,0 +1,88 @@
+.homeimg {background-image: url("images/skadi\ alter\ e2.jpg");
+    min-height: 100vh;
+    background-attachment: fixed;
+background-position: center;
+background-repeat: no-repeat;
+background-size: cover;}
+
+.flowersimg{background-image: url("images/chen\ vs\ talulah.jpg");
+min-height: 100vh;
+    background-attachment: fixed;
+background-position: center;
+background-repeat: no-repeat;
+background-size: cover;}
+
+.gardenimg {background-image: url("images/dragon_sibling.jpg");
+min-height: 100vh;
+    background-attachment: fixed;
+background-position: center;
+background-repeat: no-repeat;
+background-size: cover;
+}
+
+
+.parkimg {background-image: url("images/arknights_funny_argument.jpg");
+min-height: 100vh;
+    background-attachment: fixed;
+background-position: center;
+background-repeat: no-repeat;
+background-size: cover; }
+
+.formimg {background-image: url("images/dusk\ e2.jpg");
+min-height: 100vh;
+    background-attachment: fixed;
+background-position: center;
+background-repeat: no-repeat;
+background-size: cover;
+}
+
+#intro, #guides, #formtext, #events {
+width: 100%;
+padding-left: 5em;
+padding-right: 6em;
+padding-top: 100px;
+padding-bottom: 3em;
+}
+
+#hometext {position: absolute;
+left: 0;
+top: 100%;
+width: 100%;
+text-align: center;
+}
+
+h1 span {background-color: gray;
+color: black;
+padding: 20px;
+font-size: 30px;
+letter-spacing: 10px;}
+
+h2 {
+    background-color:gray;
+    color:black;
+    text-align: center;
+}
+
+footer {color: white;
+width: 100%;
+font-size: 90%;
+text-align: center;
+position: fixed;
+bottom: 0;}
+
+.skadialterskin{
+    float:left;
+    border-style: solid;
+}
+
+.skadialterskinvideo{
+    float:right;
+}
+
+.anime{
+    float:right;
+}
+
+.anime2{
+    float:left;
+}

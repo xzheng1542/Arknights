@@ -1,0 +1,56 @@
+@charset "utf-8";
+/* CSS Document */
+
+body {
+    background-color:black;
+    color: black;
+    font-family: sans-serif;
+    text-align: center;
+}
+
+h1, h2 {
+    color: black;
+    line-height: 200%;
+    text-align: center;
+}
+
+/* intended to do the second half of the div (the one with 3 sections) */
+div {
+    text-align: center;
+}
+
+p {
+    color: black;
+}
+
+main {
+    background-color: gray;
+    font-family: sans-serif;
+    text-align: center;
+    font-size:1.2em;
+    border-style: solid;
+}
+footer {
+    background-color: gray  ;
+    font-size: .85em;
+    font-style: italic;
+    text-align: center;
+    margin-top: 10px;
+}
+
+.testing {
+    padding-top: 50px;
+}
+
+section {
+    background-color: gray;
+}
+
+.videotext{
+    float: left;
+    padding-left: 200px;
+}
+
+.soundtract{
+    float: right;
+}

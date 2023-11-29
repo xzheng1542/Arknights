@@ -1,0 +1,84 @@
+.homeimg {background-image: url("images/amiyaanddoctor.png");
+    min-height: 100vh;
+    background-attachment: fixed;
+background-position: center;
+background-repeat: no-repeat;
+background-size: cover;}
+
+.flowersimg{background-image: url("images/simpleguide.png");
+min-height: 100vh;
+    background-attachment: fixed;
+background-position: center;
+background-repeat: no-repeat;
+background-size: cover;}
+
+.gardenimg {background-image: url("images/nearlbanner.jpg");
+min-height: 100vh;
+    background-attachment: fixed;
+background-position: center;
+background-repeat: no-repeat;
+background-size: cover;
+}
+
+
+.parkimg {background-image: url("images/nearlevent.jpg");
+min-height: 100vh;
+    background-attachment: fixed;
+background-position: center;
+background-repeat: no-repeat;
+background-size: cover; }
+
+.formimg {background-image: url("images/nearl\ nightingale\ shining.PNG");
+min-height: 100vh;
+    background-attachment: fixed;
+background-position: center;
+background-repeat: no-repeat;
+background-size: cover;
+}
+
+#intro, #guides, #formtext, #events {
+width: 100%;
+padding-left: 5em;
+padding-right: 6em;
+padding-top: 100px;
+padding-bottom: 3em;
+}
+
+#hometext {position: absolute;
+left: 0;
+top: 50%;
+width: 100%;
+text-align: center;}
+
+h1 span {background-color: gray;
+color: black;
+padding: 20px;
+font-size: 30px;
+letter-spacing: 10px;}
+
+footer {color: white;
+width: 100%;
+font-size: 90%;
+text-align: center;
+position: fixed;
+bottom: 0;}
+
+.guidevideo {
+    position: center;
+    padding-left: 800px;
+}
+
+.cnbanner{
+    float: right;
+    padding-right: 500px;
+}
+
+.nearlbanner{
+    float: left;
+    padding-left: 500px;
+}
+
+
+
+
+
